@@ -1,5 +1,7 @@
 # A sample Python project
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/decc6f37-bd1f-45ab-9314-158b0e37b283.svg?orgId=560723739106)](https://app.soluble.cloud/repos/details/github.com/bhuvi11/sampleproject?orgId=560723739106)  
+
 ![Python Logo](https://www.python.org/static/community_logos/python-logo.png "Sample inline image")
 
 A sample project that exists as an aid to the [Python Packaging User
